@@ -5,3 +5,10 @@
 <h2>Ferramentas ultilizadas:</h2>
 <p>- html</p>
 <p>- css</p>
+<img
+  src="https://github.com/paulocesarbarrost8-svg/WE-CARE/blob/main/assetss/pc.png?raw=true"
+  alt="logo WE-CARE"
+  width: 200px;
+  height: 140px;
+  display: inline-block;
+/>
