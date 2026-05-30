@@ -5,10 +5,18 @@
 <h2>Ferramentas ultilizadas:</h2>
 <p>- html</p>
 <p>- css</p>
-<img
-  src="https://github.com/paulocesarbarrost8-svg/WE-CARE/blob/main/assetss/pc.png?raw=true"
-  alt="logo WE-CARE"
-  width: 200px;
-  height: 140px;
-  display: inline-block;
-/>
+<div>
+  <img
+    src="https://github.com/paulocesarbarrost8-svg/WE-CARE/blob/main/assetss/pc.png?raw=true"
+    alt="logo WE-CARE Pc"
+    width="600px"
+    display: inline-block;
+  />
+  <img 
+    src="https://github.com/paulocesarbarrost8-svg/WE-CARE/blob/main/assetss/smartphone.png?raw=true"
+    alt="logo WE-CARE Mobile"
+    width="200px"
+    display: inline-block
+  />
+</div>
+
