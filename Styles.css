@@ -1,0 +1,130 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Montserrat', sans-serif;
+}
+img{
+    display: inline-block;
+    width: 568px;
+    height: 500px;
+    margin: 0px 0px 0px 125px;
+}
+header{
+    margin: 44px 0px 144px 76px;
+;
+    
+}
+.links-header{
+    font-weight: 600;
+    color: rgba(152, 157, 156, 1);
+    cursor:context-menu;
+    font-size: 24px;
+    line-height: 29px;
+    margin-right: 23px;
+}
+section{
+    display: inline-block;
+    margin-left: 86px;
+}
+.button-header{
+    font-weight: 600;
+    height: 41px;
+    width: 130px;
+    color: rgb(225, 225, 225);
+    border-radius: 140px;
+    border: none;
+    background: rgba(102, 90, 225, 1);
+    font-size: 15px;
+    cursor: pointer;
+}
+h1{
+    font-weight: 900;
+    font-size: 100px;
+    line-height: 122px;
+    color: rgba(81, 81, 81, 1);}
+h2{
+    font-weight: 500;
+    font-size: 58px;
+    line-height: 71px;
+    color: rgba(81, 81, 81, 1);
+}
+p{
+    font-weight: 400;
+    font-size: 25px;
+    line-height: 29px;
+    color: rgba(152, 157, 156, 1);
+    width: 515px;
+    margin-top: 32px;
+    margin-bottom: 64px;
+}
+button{
+    font-weight: 700;
+    width: 239px;
+    height: 64px;
+    background: rgba(173, 255, 0, 1);
+    border: none;
+    border-radius: 50px;
+    color: rgba(0, 0, 0, 1);
+    font-size: 24px;
+    cursor: pointer;
+    line-height: 34px;
+}
+@media screen and (max-width: 800px) {
+    .vagão{
+        height: auto;
+        width: 100%;
+    }
+    main{
+        display: block;
+        width: 100%;
+        height: auto;
+        margin: 0;
+        padding: 0;
+    }
+    section{
+        display: block;
+        width: 100%;
+        height: 50%;
+        padding: 0px;
+        
+    }
+    header{
+        display: none;
+    }
+    p{
+        display: none;
+    }
+    img{
+        margin: 185px 18px 34px 18px;
+        width: auto;
+        height: auto;
+    }
+    h1{
+        font-size: 85px;
+        line-height: 100%;
+        font-weight: 900;
+        margin: 0 0 19px -14px;
+        text-align: center;
+        width: 477px;
+    }
+    h2{
+        font-size: 57px;
+        line-height: 100%;
+        font-weight: 500;
+        margin: 0 0px 33px 22px;
+        text-align: center;
+        width: 401px;
+    }
+    button{
+        margin: 0 auto 0 auto;
+        margin-left: 21px;
+        height: 97px;
+        width: 402px;
+        box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+
+        font-weight: 700;
+        font-size: 46px;
+        line-height: 100%;
+    }
+}
