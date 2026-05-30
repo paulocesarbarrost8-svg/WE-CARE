@@ -1,0 +1,7 @@
+### <h1>WE CARE</h1>
+<br>
+<h2>Esse foi um projeto que eu aprendi com o <a href="https://aulas.devclub.com.br/">DevClub</a>, colocado em pratica e aprimorando meus conhecimentos em html, css e responsivivdade  </h2>
+<br>
+<h2>Ferramentas ultilizadas:</h2>
+<p>- html</p>
+<p>- css</p>
